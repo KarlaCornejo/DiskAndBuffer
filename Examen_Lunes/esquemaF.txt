@@ -1,0 +1,1 @@
+passengerId#int#4#survived#int#4#pclass#int#4#name#string#8#sex#string#1#clase#string#1

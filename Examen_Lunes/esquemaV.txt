@@ -1,0 +1,1 @@
+passengerId#int#survived#int#pclass#int#name#varchar#sex#varchar#clase#varchar
